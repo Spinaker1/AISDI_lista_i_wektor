@@ -1,0 +1,21 @@
+Start testing: Nov 09 22:55 CET
+----------------------------------------------------------
+1/1 Testing: boostUnitTestsRun
+1/1 Test: boostUnitTestsRun
+Command: "/home/mion/s/143/mkondras/Desktop/Liniowe/Release/tests/aisdiLinearTests"
+Directory: /home/mion/s/143/mkondras/Desktop/Liniowe/Release/tests
+"boostUnitTestsRun" start time: Nov 09 22:55 CET
+Output:
+----------------------------------------------------------
+Running 372 test cases...
+
+*** No errors detected
+<end of output>
+Test time =   0.07 sec
+----------------------------------------------------------
+Test Passed.
+"boostUnitTestsRun" end time: Nov 09 22:55 CET
+"boostUnitTestsRun" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 09 22:55 CET

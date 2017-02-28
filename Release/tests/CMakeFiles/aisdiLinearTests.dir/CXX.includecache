@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/LinkedList.h
+cstddef
+-
+initializer_list
+-
+stdexcept
+-
+
+/home/mion/s/143/mkondras/Desktop/Liniowe/tests/LinkedListTests.cpp
+LinkedList.h
+-
+initializer_list
+-
+complex
+-
+cstdint
+-
+boost/test/unit_test.hpp
+-
+boost/test/test_tools.hpp
+-
+boost/mpl/list.hpp
+-
+
